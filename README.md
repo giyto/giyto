@@ -19,7 +19,7 @@
 ## Технологии
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git" alt="Kotlin, Android Studio, Git" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea,gradle,sqlite,ktor,git" alt="Kotlin, Android Studio, IntelliJ IDEA, Gradle, SQLite, Ktor, Git" />
 </p>
 
 ## Активность
