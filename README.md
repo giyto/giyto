@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,100:39d353&height=160&section=header&text=giyto&fontColor=ffffff&fontSize=60&fontAlignY=35" alt="giyto" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191c1f,100:4b52e0&height=160&section=header&text=giyto&fontColor=ffffff&fontSize=60&fontAlignY=35" alt="giyto" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+%C2%B7+Jetpack+Compose;Building+tools+I+actually+use" alt="Android Developer · Kotlin · Jetpack Compose" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5EE0A8&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+%C2%B7+Jetpack+Compose;Building+tools+I+actually+use" alt="Android Developer · Kotlin · Jetpack Compose" />
 </p>
 
 ## Обо мне
