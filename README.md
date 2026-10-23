@@ -24,8 +24,4 @@
 
 ## Активность
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giyto/giyto/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giyto/giyto/output/github-snake.svg" />
-  <img alt="Змейка ест график вкладов" src="https://raw.githubusercontent.com/giyto/giyto/output/github-snake.svg" />
-</picture>
+<img alt="Корабль расстреливает график вкладов" src="space-shooter.gif" />
