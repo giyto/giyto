@@ -8,17 +8,20 @@
 
 ## Обо мне
 
-Привет! Я Android-разработчик: пишу на Kotlin и Jetpack Compose, иногда на Dart/Flutter и Python.
+Привет! Я Android-разработчик, пишу на Kotlin и Jetpack Compose.
 Делаю приложения, которыми пользуюсь сам.
 
-- 🔭 Сейчас работаю над **DeviceBridge** — передача текста, ссылок и файлов между телефоном и компьютером через браузер, без облака
-- 💰 **BudgetPlanner** — планировщик бюджета
-- 🌱 Изучаю spec-driven разработку вместе с AI-агентами
+**Готовые проекты:**
+
+- 📱 **DeviceBridge**: передача текста, ссылок и файлов между телефоном и компьютером через браузер, без облака
+- 💰 **BudgetPlanner**: планировщик бюджета
+
+🌱 Сейчас изучаю spec-driven разработку вместе с AI-агентами.
 
 ## Технологии
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,python,git" alt="Kotlin, Android Studio, Dart, Flutter, Python, Git" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,git" alt="Kotlin, Android Studio, Dart, Git" />
 </p>
 
 ## Активность
