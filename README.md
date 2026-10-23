@@ -25,5 +25,3 @@
 ## Активность
 
 <img alt="Корабль расстреливает график вкладов" src="space-shooter.gif" />
-
-<img alt="3D-график вкладов" src="profile-3d-contrib/profile-night-green.svg" />
